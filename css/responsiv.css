@@ -1,0 +1,120 @@
+@media screen and (max-width:425px){
+    .centerOnMobile {
+      text-align:center
+    }
+    .col {
+        flex: none;
+}
+.col-6 {
+    width: 100%;
+}
+.canta {
+    display: none;
+}
+.arama {
+    display: none;
+}
+.ucxett {
+    display: none;
+}
+.newlorem {
+    padding-left: 0px ;
+    
+}
+.w-100{
+    height: 150px;
+}
+.social {
+    padding-top: 0px !important;
+    padding-left: 10px !important;
+}
+.card-padingi {
+    padding-bottom: 50px ;
+  }
+.newozudu {
+    width: 100%;
+}
+.lorem01 {
+    width: 100%;
+}
+.cardd {
+    width: 100% !important;
+    padding-bottom: 30px;
+}
+.people {
+    font-size: 40px !important;
+}
+.axrincicardlar {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    width: 100%;
+}
+.yanvaryani {
+    padding-left: 0px !important;
+    padding-top: 50px !important;
+    padding-bottom: 50px !important
+}
+.the {
+    padding-left:  10px !important;
+ }
+.thee {
+    font-size: 30px !important;
+
+}
+.reng {
+    display: block !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+
+}
+.highh{
+    padding-bottom: 5px !important;
+}
+.highbutonu {
+    padding-bottom: 50px !important;
+}
+  }
+  @media (min-width:767px) and (max-width:768px){
+    .canta {
+        display: none;
+    }
+    .arama {
+        display: none;
+    }
+    .ucxett {
+        display: none;
+    }
+    .col-sm {
+        flex: none;
+        padding-bottom: 90px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+     
+    .col-md-6 {
+        flex: 0 0 auto ;
+        width: 100% ;
+    }
+    .ro-w>* {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+     }
+     .yanvaryani {
+        padding-bottom: 50px;
+     }
+
+}
+
+
+
+  @media (min-width:1023px) and (max-width:1024px){
+    .canta {
+        display: none;
+    }
+    .arama {
+        display: none;
+    }
+    .ucxett {
+        display: none;
+    }
+  }

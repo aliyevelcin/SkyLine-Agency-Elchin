@@ -1,0 +1,201 @@
+
+a {
+    font-size:14px;
+    font-weight:700
+  }
+  .superNav {
+    font-size:13px;
+  }
+  .form-control {
+    outline:none !important;
+    box-shadow: none !important;
+  }
+
+/* 2ci */
+.hearlogo {
+    padding-top: 50px;
+    background-color: #EBEBEB;
+    padding-right: 100px;
+  }
+.hear {
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+.social1{
+  
+  color: black;
+}
+ 
+.social {
+     font-size: 30px;
+    padding-left: 100px;
+    padding-top: 100px;
+    font-family: sans-serif;
+}
+.butonlar {
+    padding-top: 30px;
+    padding-bottom: 50px
+}
+
+
+
+/* 3cu */
+ 
+.row {
+  display: flex;
+}
+
+.digi {
+  padding-left: 30px;
+  padding-top: 100px;
+  color: rgb(0, 0, 0);
+
+}
+
+.start {
+  padding-left: 30px;
+  padding-top: 100px;
+  color: rgb(255, 255, 255);
+
+}
+
+.acquisition {
+  padding-left: 30px;
+  padding-top: 100px;
+  color: rgb(255, 255, 255);
+
+}
+
+
+/* 4cu */
+.newlorem {
+  padding-top: 150px;
+   padding-left: 100px;
+
+}
+.newozudu {
+  width: 500px;
+}
+.lorem01{
+  padding-top: 20px;
+  width: 400px;
+  display: flex;
+  
+}
+.loremozu {
+  padding-left: 20px;
+}
+.acqiliyazi {
+  color: white;
+  padding-top: 100%;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+
+/* cardlar6deneli */
+.the {
+  padding-left: 110px;
+  padding-top: 70px;
+  padding-bottom: 40px;
+  font-family: sans-serif;
+  font-size: 70px;
+}
+.card-img-top {
+  border-radius: 15px;
+}
+.card-text {
+  color: hsl(0, 4%, 62%);
+}
+.cardlarin-yazisi {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.butonii {
+  padding-bottom: 50px;
+}
+/* 40reqemi */
+ 
+
+.yanvar {
+  padding-top: 700px;
+  padding-left: 70px;
+}
+.yanvar-reqemler{
+  font-size: 88px;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 150;
+      
+}
+.yanvaryani {
+  padding-top: 200px;
+  text-align: justify;
+  padding-left: 50px;
+}
+/* 40reqemibitdi */
+
+
+/* narinciyer */
+.reng {
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 100px;
+}
+
+.highh {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: justify;
+  padding-bottom: 100px;
+
+  color: white;
+}
+
+
+/* animasyalisozler */
+.ulduzlar {
+  padding-bottom: 50px;
+}
+
+.animasyali-textler2 {
+  padding-top: 30px;
+  color: hsl(0, 4%, 62%);
+  
+}
+
+.animasyali-textler3{
+  padding-bottom: 200px;
+  
+}
+.animasyali-textler {
+  width: 300px;
+}
+
+/* podcast */
+.cartlarin-2cisozu{
+  color: #A8A8A8;
+} 
+.axrinci-yazilar{
+  color: #A8A8A8;
+}
+
+/* qarayer */
+
+.our {
+  color: white;
+}
+.axrinci-yazilar {
+  color: #A8A8A8;
+}
+.axrinci-yazilar:hover {
+  color: white;
+
+}
+.axrinciloqo {
+  padding-right: 50px;
+}
+
